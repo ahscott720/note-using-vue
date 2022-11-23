@@ -1,2 +1,2 @@
 # A note app using vue
-without backend but an array to tempary store the notes
+without backend but an array to temporarily keep the note data
